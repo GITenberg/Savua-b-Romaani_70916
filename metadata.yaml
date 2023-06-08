@@ -1,0 +1,45 @@
+_repo: Savua-b-Romaani_70916
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Suomalainen, Samuli
+    aliases:
+    - S., Samuli
+    - Samuli S.
+    birthdate: 1850
+    deathdate: 1907
+    gutenberg_agent_id: '7732'
+    url: http://www.gutenberg.org/2009/agents/7732
+    wikipedia: http://fi.wikipedia.org/wiki/Carl_Gustaf_Samuel_Suomalainen
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Тургенев, Иван Сергеевич
+    - Tourgueneff, Ivan
+    - Turgénieff, Iván
+    - Toergenev, Ivan
+    - Turgenjeff, Iwan
+    - Turgenev, I. S.
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: https://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_issued: '2023-06-05'
+identifiers:
+  gutenberg: '70916'
+language: fi
+pgterms:marc905: 20230413102400turgenev
+pgterms:marc906: '1899'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bOtava, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Savua : $b Romaani'
+url: http://www.gutenberg.org/ebooks/70916
