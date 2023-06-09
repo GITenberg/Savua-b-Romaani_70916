@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '7732'
     url: http://www.gutenberg.org/2009/agents/7732
     wikipedia: http://fi.wikipedia.org/wiki/Carl_Gustaf_Samuel_Suomalainen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Turgenev, Ivan Sergeevich
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/922
     wikipedia: https://en.wikipedia.org/wiki/Ivan_Turgenev
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70916#Savua-b-Romaani
 gutenberg_issued: '2023-06-05'
 identifiers:
   gutenberg: '70916'
